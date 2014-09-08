@@ -1,4 +1,4 @@
-Locationawarenames
+Location Aware Names
 ==================
 
 Encode &amp; Decode Location Aware Names 
@@ -6,6 +6,14 @@ Encode &amp; Decode Location Aware Names
 Location Aware Names, is a rethinking of how we give name to places ,streets or locations by encoding information right into the letters that form the name
 
 This simple step opens the gates to a whole range of new possibilities and innovations
+
+USAGE:
+======
+Encoding:
+ruby encode.rb 65.7 -170.6
+
+Decoding:
+ruby decode.rb RERI-NUCA
 
 Check http://locationawarenames.org to see the concept or to http://ubicate.me to try a proof of concept.
 
